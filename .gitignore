@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+datasets/
+videos/
+*.mp4
+*.avi
+*.onnx
+*.pt
+*.pth
+*.jpg
+*.png
+.env
+config_secret.py

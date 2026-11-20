@@ -13,3 +13,4 @@ videos/
 *.png
 .env
 config_secret.py
+!emotion_distribution.png
